@@ -13,5 +13,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original-wordmark.svg" title="cplusplus" **alt="cplusplus" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="50" height="50"/>
 </div>
