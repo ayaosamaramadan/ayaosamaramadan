@@ -2,7 +2,7 @@
 
 ## About Me :
 
-- I am a Front-End Developer
+- I'm a Front-End Developer
 
 <h2> Languages and Tools :</h2>
 
