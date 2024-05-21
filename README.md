@@ -26,5 +26,5 @@
 </div>
 
 <div>
-<img src="https://www.codewars.com/users/aya%20osos/badges/large?theme=light" width="500" height="100"/>
+<img src="https://www.codewars.com/users/aya%20osos/badges/large?theme=light" width="500" height="80"/>
 </div>
