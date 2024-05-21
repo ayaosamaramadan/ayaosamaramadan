@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
+<br>
 <div>
 <img src="https://www.codewars.com/users/aya%20osos/badges/large?theme=light" width="400" height="80"/>
 </div>
