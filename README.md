@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ## I'm a Front-End Developer
@@ -30,10 +28,10 @@
 <br>
 
 ## GitHub stats
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=680865&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=D6A9FF&sideLabels=A35CC4&dates=EBEBEB&excludeDaysLabel=4C2B5B" alt="GitHub Streak" /></a>
-</div>
 
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=8514EB&sideLabels=8514EB&dates=EBEBEB" alt="GitHub Streak" /></a>
+</div>
 
 ## LeetCode:
 <div align="center">
