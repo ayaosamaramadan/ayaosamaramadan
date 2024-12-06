@@ -1,8 +1,9 @@
-# Hi there 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div> 
+  <h1>Hi there 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h4> I'm a Front-End Developer</h4>
+</div> 
 
-## I'm a Front-End Developer
-
-<h2>Languages and Tools:</h2>
+<h2>Languages and Tools :</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -21,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-## Contact:
+<h2> Contact :</h2>
 <div align="center" style="padding-right:5%;">
   <a href="https://www.linkedin.com/in/aya-osama-775286269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
@@ -33,18 +34,18 @@
 
 <br>
 
-## GitHub stats
+<h2> GitHub stats :</h2>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=8514EB&sideLabels=8514EB&dates=EBEBEB" alt="GitHub Streak" style='width:60%;'/></a>
 </div>
 
-## LeetCode:
+<h2> LeetCode :</h2>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/ayaosamaramadan?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
-## CodeWars:
+<h2> CodeWars :</h2>
 <div align="center">
   <img src="https://www.codewars.com/users/Aya%20Osos/badges/large" width="400" height="80" style="border: 2px solid #000; border-radius: 10px;"/>
 </div>
