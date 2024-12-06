@@ -30,7 +30,7 @@
 ## GitHub stats
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=8514EB&sideLabels=8514EB&dates=EBEBEB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=8514EB&sideLabels=8514EB&dates=EBEBEB" alt="GitHub Streak" style='width:60%;'/></a>
 </div>
 
 ## LeetCode:
