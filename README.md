@@ -22,9 +22,12 @@
 </div>
 
 ## Contact:
-<div align="center">
+<div align="center" style="padding-right:5%;">
   <a href="https://www.linkedin.com/in/aya-osama-775286269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
+  </a>
+   <a href="ayaramadan2011@gmail.com"  target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
   </a>
 </div>
 
