@@ -1,25 +1,10 @@
 ### Hi there 👋
 
-<!--
-**ayaosamaramadan/ayaosamaramadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ## I'm a Front-End Developer
 
 <h2>Languages and Tools:</h2>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -39,7 +24,6 @@ Here are some ideas to get you started:
 </div>
 
 ## Contact:
-
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" onclick="window.location.href='https://www.linkedin.com/in/aya-osama-775286269/'" style="cursor: pointer;"/>
 </div>
@@ -52,13 +36,11 @@ Here are some ideas to get you started:
 
 
 ## LeetCode:
-
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/ayaosamaramadan?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ## CodeWars:
-
 <div align="center">
   <img src="https://www.codewars.com/users/Aya%20Osos/badges/large" width="400" height="80" style="border: 2px solid #000; border-radius: 10px;"/>
 </div>
