@@ -23,8 +23,11 @@
 
 ## Contact:
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" onclick="window.location.href='https://www.linkedin.com/in/aya-osama-775286269/'" style="cursor: pointer;"/>
+  <a href="https://www.linkedin.com/in/aya-osama-775286269/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
+  </a>
 </div>
+
 <br>
 
 ## GitHub stats
