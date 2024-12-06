@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/aya-osama-775286269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
   </a>
-   <a href="ayaramadan2011@gmail.com"  target="_blank">
+   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=ayaramadan2011@gmail.com&tf=1"  target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
   </a>
 </div>
