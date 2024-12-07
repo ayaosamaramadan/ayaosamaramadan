@@ -1,7 +1,6 @@
-<div> 
-  <h1>Hi there 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h4> I'm a Front-End Developer</h4>
-</div> 
+<h1>Hi there 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h4> I'm a Front-End Developer</h4
+</br>
 
 <h2>Languages and Tools :</h2>
 <div align="left">
@@ -37,7 +36,7 @@
 <h2> GitHub stats :</h2>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=8514EB&sideLabels=8514EB&dates=EBEBEB" alt="GitHub Streak" style='width:60%;'/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=8514EB&sideLabels=8514EB&dates=EBEBEB" alt="GitHub Streak" style='width:65%;'/></a>
 </div>
 
 <h2> LeetCode :</h2>
