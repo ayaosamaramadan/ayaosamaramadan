@@ -34,8 +34,9 @@
 <br>
 
 <h2> GitHub stats :</h2>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan" alt="GitHub Streak" /></a>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan" alt="GitHub Streak" style='width:60%' /></a>
+</div>
 
 <h2> LeetCode :</h2>
 <div align="center">
