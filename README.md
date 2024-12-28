@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
   </a>
    <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=ayaramadan2011@gmail.com&tf=1"  target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="cursor: pointer;" />
   </a>
 </div>
 
@@ -35,12 +35,12 @@
 
 <h2> GitHub stats :</h2>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=EBEBEB&stroke=EBEBEB&ring=8514EB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=8514EB&sideLabels=8514EB&dates=EBEBEB" alt="GitHub Streak" style='width:65%;'/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=monokai&background=111111&border=EBEBEB&stroke=EBEBEB&ring=EBEBEB&fire=EB0C73&currStreakNum=29EBE0&sideNums=29EBE0&currStreakLabel=EB0C73&sideLabels=EB0C73&dates=29EBE0&excludeDaysLabel=EB0C73" alt="GitHub Streak" style='width:65%;'/></a>
 </div>
 
 <h2> LeetCode :</h2>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ayaosamaramadan?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ayaosamaramadan?theme=radical&font=Quattrocento&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <h2> CodeWars :</h2>
