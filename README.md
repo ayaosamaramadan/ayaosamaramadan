@@ -38,12 +38,4 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=monokai&background=111111&border=EBEBEB&stroke=EBEBEB&ring=EBEBEB&fire=EB0C73&currStreakNum=29EBE0&sideNums=29EBE0&currStreakLabel=EB0C73&sideLabels=EB0C73&dates=29EBE0&excludeDaysLabel=EB0C73" alt="GitHub Streak" style='width:65%;'/></a>
 </div>
 
-<h2> LeetCode :</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ayaosamaramadan?theme=radical&font=Quattrocento&ext=heatmap" alt="LeetCode Stats" />
-</div>
 
-<h2> CodeWars :</h2>
-<div align="center">
-  <img src="https://www.codewars.com/users/Aya%20Osos/badges/large" width="400" height="80" style="border: 2px solid #000; border-radius: 10px;"/>
-</div>
