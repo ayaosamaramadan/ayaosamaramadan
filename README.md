@@ -4,21 +4,23 @@
 
 <h2>Languages and Tools :</h2>
 <div align="left"> 
+  
   <img src="https://github.com/user-attachments/assets/f420d39e-3c95-4a3c-8247-2ea4ffd68d6d" height="50" alt="nodejs logo" title="Node.js" />
     <img width="12" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" height="50" alt="react logo" title="React" />
   <img width="12" />
     <img src="https://github.com/user-attachments/assets/4615b415-b6f1-40d4-84eb-9f04c87d4b07" height="50" alt="express logo" title="Express"  />
    <img width="12" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" height="50" alt="mongoDB logo" title="MongoDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" height="50" alt="mongoDB logo" title="MongoDB" /> 
     <img width="12" /> 
-    
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" title="TypeScript" />
+    <img width="12" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/redux/redux-original.svg" height="50" alt="redux logo" title="Redux" />
  <img width="12" />  
  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" height="50" alt="postman logo" title="Postman" />
  <img width="12" />
  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" title="Javascript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" height="50" alt="javaScript logo" title="Javascript" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" title="TailwindCSS" />
   <img width="12" />
