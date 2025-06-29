@@ -1,65 +1,59 @@
-<h1>Hi there 😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h4> I'm a Front-End Developer</h4
-</br>
 
-<h2>Languages and Tools :</h2>
-<div align="left"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg" height="50" alt="nodejs logo" title="Next.js" />  <img width="20" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" height="50" alt="react logo" title="React" />
-    <img width="20" /> 
-  <img src="https://github.com/user-attachments/assets/f420d39e-3c95-4a3c-8247-2ea4ffd68d6d" height="50" alt="nodejs logo" title="Node.js" />
-    <img width="20" /> 
-    <img src="https://github.com/user-attachments/assets/4615b415-b6f1-40d4-84eb-9f04c87d4b07" height="50" alt="express logo" title="Express"  />
-  <img width="20" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" height="50" alt="mongoDB logo" title="MongoDB" /> 
-   <img width="20" /> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" title="TypeScript" />
-    <img width="20" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/redux/redux-original.svg" height="50" alt="redux logo" title="Redux" />
- <img width="20" /> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" height="50" alt="postman logo" title="Postman" />
- <img width="20" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" height="50" alt="javaScript logo" title="Javascript" />
-  <img width="20" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" title="TailwindCSS" />
- <img width="20" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" height="50" alt="vite logo" title="Vite" />
-  <img width="20" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" height="50" alt="css3 logo" title="CSS"  />
- <img width="20" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/axios/axios-plain.svg" height="50" alt="axios logo" title="Axios" />
-  <img width="20" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" height="50" alt="git logo" title="Git"  />
-    <img width="20" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap 
-  logo" title="Bootstrap"/>
-    <img width="20" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" height="50" alt="html5 logo" title="HTML"/>
-  <img width="20" /> 
-</div>
 
-<h2> Contact :</h2>
-<div align="center" style="padding-right:5%;">
-  <a href="https://www.linkedin.com/in/aya-osama-775286269/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="cursor: pointer;" />
-  </a>
-   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=ayaramadan2011@gmail.com&tf=1"  target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="cursor: pointer;" />
-  </a>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%98%8A;I'm+Aya+Osama;Front-End+Developer" alt="Typing SVG" />
+</h1>
 
-<br>
+<br/>
+<p align="center" style="color:#8B5CF6;">
+    ✨ Passionate about crafting beautiful, user-friendly web experiences ✨
+</p>
 
-<h2> GitHub stats :</h2>
+<br/>
+<h2 align="center" style="color:#8B5CF6;">🌸 Languages & Tools 🌸</h2>
+
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=monokai&background=111111&border=EBEBEB&stroke=EBEBEB&ring=EBEBEB&fire=EB0C73&currStreakNum=29EBE0&sideNums=29EBE0&currStreakLabel=EB0C73&sideLabels=EB0C73&dates=29EBE0&excludeDaysLabel=EB0C73" alt="GitHub Streak" style='width:65%;'/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" height="40" title="React" style="filter: hue-rotate(260deg);" />
+    <img src="https://github.com/user-attachments/assets/f420d39e-3c95-4a3c-8247-2ea4ffd68d6d" height="40" title="Node.js" style="filter: hue-rotate(260deg);" />
+    <img src="https://github.com/user-attachments/assets/4615b415-b6f1-40d4-84eb-9f04c87d4b07" height="40" title="Express" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" height="40" title="TypeScript" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/redux/redux-original.svg" height="40" title="Redux" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" height="40" title="Postman" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" height="40" title="JavaScript" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" height="40" title="TailwindCSS" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" height="40" title="Vite" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" height="40" title="CSS3" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/axios/axios-plain.svg" height="40" title="Axios" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" height="40" title="Git" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap" style="filter: hue-rotate(260deg);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" height="40" title="HTML5" style="filter: hue-rotate(260deg);" />
 </div>
 
+<br/>
+<br/>
+<h2 align="center" style="color:#8B5CF6;">💌 Contact Me</h2>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/aya-osama-775286269/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%238B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=ayaramadan2011@gmail.com&tf=1" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-%238B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+</p>
 
-<h2> LeetCode :</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ayaosamaramadan?theme=radical&font=Quattrocento&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<br/>
 
+<h2 align="center" style="color:#8B5CF6;">📊 GitHub Stats</h2>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="70%" />
+</p>
+
+<br/>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
+</p>
 
