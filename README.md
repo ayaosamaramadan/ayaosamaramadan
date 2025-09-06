@@ -39,6 +39,10 @@
 
 <br/>
 
+<h2 align="center" style="color:#FF0000;">⚜ Github Status ⚜</h2>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=shadow-red&border_radius=4.7" alt="GitHub Streak" /></a>
+</div>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" alt="Footer" />
