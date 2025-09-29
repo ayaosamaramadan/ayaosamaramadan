@@ -21,8 +21,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React" />
-    <img src="https://github.com/user-attachments/assets/f420d39e-3c95-4a3c-8247-2ea4ffd68d6d" height="40" title="Node.js" />
-    <img src="https://github.com/user-attachments/assets/4615b415-b6f1-40d4-84eb-9f04c87d4b07" height="40" title="Express" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" title="Redux" />
