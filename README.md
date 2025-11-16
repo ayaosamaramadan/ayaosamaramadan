@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=32&duration=2500&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%98%8A;I'm+Aya+Osama;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=32&duration=2500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%98%8A;I'm+Aya+Osama;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <br/>
@@ -9,10 +9,10 @@
 <br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/aya-osama-775286269/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-87CEFA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=ayaramadan2011@gmail.com&tf=1" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-87CEFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </p>
 <br/>
@@ -37,11 +37,11 @@
 
 <br/>
 
-<h2 align="center" style="color:#87CEFA;">⚜ Github Status ⚜</h2>
+<h2 align="center" style="color:#ffffff;">⚜ Github Status ⚜</h2>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=shadow-blue&border_radius=4.7&ring=87CEFA&fire=87CEFA&sideLabels=87CEFA" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayaosamaramadan&theme=oceanic-next&background=00000000&border=EBEBEB&stroke=EBEBEB&ring=B9B9B9&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
 </div>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=100&section=footer" alt="Footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" alt="Footer" />
 </p>
